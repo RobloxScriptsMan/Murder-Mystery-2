@@ -2,7 +2,7 @@
 
 Looking to take your Murder Mystery 2 gameplay to unstoppable levels? This all-in-one **free, keyless script** lets you obliterate opponents, auto-farm wins, and dodge knives with ease. Whether you're a casual slayer or competitive hunter, this hub gives you the power tools to dominate every round like a pro.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Murder-Mystery-2/blob/main/murder%20mystery%202.png))
 
 ---
 
